@@ -33,14 +33,11 @@ Using the secure password and encrypting the data keeping them more covered.
 
 |ID |	Description	|Category|Status|
 |---|-------------|--------|------|
-|HR01	cilent shall be able to add Employee record	Techincal	TBD-S1|
-|HR02	cilent shall be able to display Employee record	Techincal	TBD-S1|
-HR03	cilent shall be able to update a Employee record	Techincal	TBD-S1
-HR04	cilent shall be able to delete a Employee record	Techincal	TBD-S1
-HR05	cilent shall be able to save records in a file	Techincal	TBD-S1
-HR06	cilent shall be able to read data from a file	Techincal	TBD-S1
-HR07	Data should not be lost in case of faliure	Scenario	FUTURE
-HR08	Data should be stored when closing the system	Scenario	TBD-S1
+|HR01	|Person shall be able to add Employee record	|Techincal|	Success|
+|HR02	|Person shall be able to display Employee record|	Techincal|	Success|
+|HR03	|Person shall be able to modify a Employee record|	Techincal	|Succees|
+|HR04	|Person shall be able to delete a Employee record|	Techincal	|Success|
+
 ## Low level Requirements:
 ID	Description	HLR ID	Status (Implemented/Future)
 LR01	New record is added and Employee id should be unique	HR01	TBD-S1
