@@ -7,12 +7,16 @@ BUILD = build
 # All source code files
 SRC = main.c\
 src/gotoxy.c\
+src/addnewname.c\
+src/showallrecord.c\
+src/modify.c\
+src/deleterecord.c\
 
 
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/gotoxy.c\
+test/test_employee.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
