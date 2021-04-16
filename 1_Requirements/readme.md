@@ -7,11 +7,12 @@ Employee Record System is an application which allows the user to create,modify 
 2) Well designed data management system
 3) Making easy modification system
 
-Defining System:-
+## Defining System:-
 
-##Explanation:-
+## Explanation:-
 Employee details such as name ,age and salary can be added an also there is an option of deleting or modification of the record which would help in quick changes.Also we can see all the details of the employee in the company.
-SWOT Analysis:
+# SWOT Analysis:
+![Untitled Workspace](https://user-images.githubusercontent.com/80695458/115008636-fa9a5c00-9ec8-11eb-8919-28d41b94a903.png)
 
 
 4W's and 1'H
