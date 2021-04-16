@@ -1,6 +1,6 @@
-# EMPLOYEE MANAGEMENT SYSTEM-(EMS)
+# EMPLOYEE RECORD MANAGEMENT-(ERM)
 ## Introduction:-
-Employee Record System is an application which allows the user to create,modify display all the details of the Employee working in the company.It is a best way to organize data of all the employees. 
+Employee Record Management is an application which allows the user to create,modify display all the details of the Employee working in the company.It is a best way to organize data of all the employees. 
 
 ## Objectives:-
 1) Organized way to store the Employee data
