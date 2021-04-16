@@ -39,12 +39,11 @@ Using the secure password and encrypting the data keeping them more covered.
 |HR04	|Person shall be able to delete a Employee record|	Techincal	|Success|
 
 ## Low level Requirements:
-ID	Description	HLR ID	Status (Implemented/Future)
-LR01	New record is added and Employee id should be unique	HR01	TBD-S1
-LR02	Finding the Employee details can be either by searching by name or the best way of searching is by Employee id	HR02	TBD-S1
-LR03	If user searches for an invalid ID ""ERROR RECORD NOT FOUND" message should be displayed	HR02	TBD-S1
-LR04	User need to search by the Employee id for the details to be updated, if no record is available then "ERROR RECORD NOT FOUND" Message should be displayed	HR02	TBD-S1
-LR06	User need to search by id for the Employee record to be deleted, if no such record is available then "ERROR RECORD NOT FOUND" Message should be displayed	HR04	TBD-S1
-LR05	User shall be able to save the files, if file already exists then it should append to file and should not overwrite it and if file does not exists then it should create a new file	HR06	TBD-S1
-LR06	If opening the login page fails system shloud prompt the message "Invalid login"	HR07	TBD-S1
-LR07	After adding each record it asks whether you need to add an another record or Not and Display message as "Y/N" if want to add/modify/delete another record can click Y/N	HR01,HR02,HR03,HR04	TBD-S1
+|ID |	Description	|HLR ID|Status|
+|---|-------------|--------|------|
+|LR01	|New record is created|HR01|	Success|
+|HR02	|Display all the lists|HR02|	Success|
+|HR03	|Modification of the employee records|HR03	|Succees|
+|HR04	|Delete the record|	HR04	|Success|
+
+
