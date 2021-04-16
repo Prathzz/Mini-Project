@@ -32,6 +32,7 @@ Using the secure password and encrypting the data keeping them more covered.
 ## High Level Requirements:
 
 |ID |	Description	|Category|Status|
+|---|-------------|--------|------|
 |HR01	cilent shall be able to add Employee record	Techincal	TBD-S1|
 |HR02	cilent shall be able to display Employee record	Techincal	TBD-S1|
 HR03	cilent shall be able to update a Employee record	Techincal	TBD-S1
