@@ -1,5 +1,5 @@
 # Name of the project
-PROJECT_NAME = Employeerecordmanagement
+PROJECT_NAME = employee
 
 # Output directory
 BUILD = build
